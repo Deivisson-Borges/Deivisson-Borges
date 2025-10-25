@@ -33,7 +33,7 @@ Look at my Github stats 👇🏽
 
 ## 👥 Colaboradores
 
-| [<img src="https://github.com/Deivisson-Borges.png" width="100" style="border-radius:50%;" />](https://github.com/Deivisson-Borges) | [<img src="https://github.com/uendellima.png" width="100" style="border-radius:50%;" />](https://github.com/uendellima) | [<img src="https://github.com/wssantanna.png" width="100" style="border-radius:50%;" />](https://github.com/wssantanna) |
+| [<img src="https://github.com/Deivisson-Borges.png" width="50" style="border-radius:50%;" />](https://github.com/Deivisson-Borges) | [<img src="https://github.com/uendellima.png" width="50" style="border-radius:50%;" />](https://github.com/uendellima) | [<img src="https://github.com/wssantanna.png" width="50" style="border-radius:50%;" />](https://github.com/wssantanna) |
 |:---:|:---:|:---:|
 | [Deivisson-Borges](https://github.com/Deivisson-Borges) | [uendellima](https://github.com/uendellima) | [wssantanna](https://github.com/wssantanna) |
  
