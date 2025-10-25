@@ -18,4 +18,18 @@ Look at my Github stats 👇🏽
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-Borges&layout=compact&theme=transparent&hide=jupyter%20notebook)](https://github.com/Deivisson-Borges)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://github.com/Deivisson-Borges.png" width="100" />
  
